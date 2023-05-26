@@ -19,6 +19,6 @@ Things sold by pharmacy are:
   - pharmacist (seller) (can also create/produce specific drugs).
   
 
-## Frankly speaking its one of the beggining projects, atomics and mutexes should be used there, but I am to lazy to change that, despite that it works.
+## Frankly speaking its one of my first projects so it has a lot of downsides for example atomics and mutexes should be added there.
 
 
