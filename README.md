@@ -1,7 +1,7 @@
 # Pharmacy
 
-##This project is pharmacy simulation written in c ++ for  project in the beggining of studies. Used c ++ 11 standard. 
-#How to run:
+## This project is pharmacy simulation written in c ++ for  project in the beggining of studies. Used c ++ 11 standard. 
+# How to run:
 ## Use visual studio code --> run task json every compilation method is specified in the file
 
 ## How does program work:
